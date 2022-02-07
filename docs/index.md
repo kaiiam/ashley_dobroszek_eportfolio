@@ -2,7 +2,8 @@
 
 Welcome to the Ashley Dobroszek eportfolio.
 
-![photo](photo.PNG)
+
+<img src="photo.PNG" alt="drawing" width="100"/>
 
 ## Lesson Portfolio
 
