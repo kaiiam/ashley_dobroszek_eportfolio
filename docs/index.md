@@ -2,6 +2,8 @@
 
 Welcome to the Ashley Dobroszek eportfolio.
 
+![photo](photo.PNG)
+
 ## Lesson Portfolio
 
 Sample Unit Plans (as PDFs)
