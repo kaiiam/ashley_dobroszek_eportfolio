@@ -11,17 +11,22 @@ Welcome to the Ashley Dobroszek eportfolio.
 
 Sample Unit Plans (as PDFs)
 
-<input type="button" onclick="window.location.href='https://www.w3docs.com';" value="w3docs" />
 
 
 ### Writers Workshop
 
-<a href="{{ site.github.repository_url }}" class="btn">A button</a>
+<form action="https://www.w3docs.com/" method="get" target="_blank">
+         <button type="submit">Name of Math Workshop 1</button>
+      </form>
 
 ### Math Workshop
 
 <form action="https://www.w3docs.com/" method="get" target="_blank">
-         <button type="submit">Click me</button>
+         <button type="submit">Name of Math Workshop 2 </button>
+      </form>
+
+<form action="https://www.w3docs.com/" method="get" target="_blank">
+         <button type="submit">Name of Math Workshop 2 </button>
       </form>
 
 ### Unit of Inquiry
