@@ -1,6 +1,5 @@
-## Ashley Dobroszek eportfolio
+# Ashley Dobroszek Lesson Portfolio
 
-Welcome to the Ashley Dobroszek eportfolio.
 
 
 <img src="photo.PNG" alt="drawing" width="150"/>
