@@ -1,5 +1,4 @@
-# Ashley Dobroszek Lesson Portfolio
-
+## [Resume](Resume_Ashley_Dobroszek.pdf)
 
 
 <img src="photo.PNG" alt="drawing" width="150"/>
@@ -16,7 +15,7 @@ Sample Unit Plans (as PDFs)
 
 <form action="https://www.w3docs.com/" method="get" target="_blank">
          <button type="submit">Title 1</button>
-      </form> Perhaps a one line description? 
+      </form> Perhaps a one line description?
 
 ---
 
@@ -46,6 +45,3 @@ Sample Unit Plans (as PDFs)
 <form action="https://www.w3docs.com/" method="get" target="_blank">
          <button type="submit">Title 2</button>
       </form>
-
-
-# [Resume](Resume_Ashley_Dobroszek.pdf)
