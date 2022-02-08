@@ -5,10 +5,7 @@
 
 
 
-## Lesson Portfolio
-
-Sample Unit Plans (as PDFs)
-
+Welcome to Ashley Dobroszek's digital teaching sample collection. Below you will find links to samples of unit plans and lesson plans (as PDFs).
 
 
 ### Writers Workshop
