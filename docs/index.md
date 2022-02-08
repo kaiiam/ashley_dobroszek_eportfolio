@@ -18,11 +18,13 @@ Sample Unit Plans (as PDFs)
          <button type="submit">Title 1</button>
       </form>
 
-\
+---
 
 <form action="https://www.w3docs.com/" method="get" target="_blank">
          <button type="submit">Title 2</button>
       </form>
+
+---
 
 <form action="https://www.w3docs.com/" method="get" target="_blank">
          <button type="submit">Title 3</button>
