@@ -7,21 +7,6 @@ Welcome to the Ashley Dobroszek eportfolio.
 
 
 
-<style>
-  .button {
-    background-color: #1c87c9;
-    border: none;
-    color: white;
-    padding: 20px 34px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 20px;
-    margin: 4px 2px;
-    cursor: pointer;
-  }
-</style>
-
 ## Lesson Portfolio
 
 Sample Unit Plans (as PDFs)
@@ -33,8 +18,8 @@ Sample Unit Plans (as PDFs)
 
 ### Math Workshop
 
-<button style="background-color: blue;" type="button">
-I am a blue button! Click me!
+<button style="background-color: blue;" href="{{ site.github.repository_url }}" type="button">
+I am a blue button!
 </button>
 
 ### Unit of Inquiry
