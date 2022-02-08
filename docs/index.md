@@ -15,22 +15,33 @@ Sample Unit Plans (as PDFs)
 ### Writers Workshop
 
 <form action="https://www.w3docs.com/" method="get" target="_blank">
-         <button type="submit">Name of Math Workshop 1</button>
+         <button type="submit">Title 1</button>
+      </form>
+
+<form action="https://www.w3docs.com/" method="get" target="_blank">
+         <button type="submit">Tile 2</button>
+      </form>
+
+<form action="https://www.w3docs.com/" method="get" target="_blank">
+         <button type="submit">Title 3</button>
       </form>
 
 ### Math Workshop
 
 <form action="https://www.w3docs.com/" method="get" target="_blank">
-         <button type="submit">Name of Math Workshop 2 </button>
+         <button type="submit">Title 1</button>
       </form>
 
-<form action="https://www.w3docs.com/" method="get" target="_blank">
-         <button type="submit">Name of Math Workshop 2 </button>
-      </form>
 
 ### Unit of Inquiry
 
+<form action="https://www.w3docs.com/" method="get" target="_blank">
+         <button type="submit">Title 1</button>
+      </form>
 
+<form action="https://www.w3docs.com/" method="get" target="_blank">
+         <button type="submit">Title 2</button>
+      </form>
 
 
 # [Resume](Resume_Ashley_Dobroszek.pdf)
