@@ -20,9 +20,9 @@ Sample Unit Plans (as PDFs)
 
 ### Math Workshop
 
-<button style="background-color: blue;" href="{{ site.github.repository_url }}" type="button">
-I am a blue button!
-</button>
+<form action="https://www.w3docs.com/" method="get" target="_blank">
+         <button type="submit">Click me</button>
+      </form>
 
 ### Unit of Inquiry
 
