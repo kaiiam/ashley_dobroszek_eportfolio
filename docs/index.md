@@ -33,6 +33,10 @@ Sample Unit Plans (as PDFs)
 
 ### Math Workshop
 
+<button style="background-color: blue;" type="button">
+I am a blue button! Click me!
+</button>
+
 ### Unit of Inquiry
 
 
